@@ -7,8 +7,6 @@
 # PARADOX FINANCE INTERFACE
 ### *Architect your Reality... with Paradox.*
 
-<img src="stark_badge.png" alt="Powered By Stark Industries" height="30" />
-
 [![Paradox System](https://img.shields.io/badge/SYSTEM-ONLINE-0ea5e9?style=for-the-badge&logo=react&logoColor=white)](https://github.com/i-am-paradox/paradox-finance-interface)
 [![License](https://img.shields.io/badge/LICENSE-MIT-050505?style=for-the-badge)](LICENSE)
 [![Version](https://img.shields.io/badge/VERSION-2.21B-white?style=for-the-badge)](releases)
